@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Here are a few short write-ups around [Translator](https://ncats.nih.gov/translator) projects I've worked on:
+* https://gist.github.com/patrickkwang/56f7992fec75cc6b17f3265204a7c0b0
+* https://gist.github.com/patrickkwang/6f0ec1b204e000a690f53dd9107238f1
+
 <!--
 **patrickkwang/patrickkwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
